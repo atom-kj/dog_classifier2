@@ -33,10 +33,8 @@ The purpose of the project is to use a convolutional neural network to identify 
 
 ## Motivation
 For making a technical blog post to test CNN capability for dog classifier
-Blog: https://medium.com/@atomic.fbr.kaji/is-it-still-worth-becoming-data-scientist-very-short-answer-c8730f0f829e
+Blog: https://medium.com/@atomic.fbr.kaji/showcase-of-dog-image-classifier-7797414d4a0c
 
 
 ## A summary of results
 The tuned algorithm peformance of the classification for the test dataset of dog image was 80.2632 % instead of 39.7129% of original CNN momdel. For the technically difficult cases, it does not work so well.
-"# dog_classifier2" 
-"# dog_classifier2" 
