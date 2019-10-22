@@ -24,7 +24,7 @@ The purpose of the project is to use a convolutional neural network to identify 
 * image # picture directory for notebook
 * pictures # picture directory for test identification 
 * requirements # requirements directory
-* saved_models   #saved model data are contained
+* saved_models   #saved model data are contained (one saved model data is at outer storage https://drive.google.com/file/d/1Bvov1WtaytCYTs9ToU1EIBTRTQPjLZqZ/view?usp=sharing)
 * CODEOWNERS
 * dog_app.ipynb # notebook for analysis
 * extract_bottleneck_features.py
